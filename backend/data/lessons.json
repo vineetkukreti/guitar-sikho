@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Parts of the Guitar",
+    "level": "beginner",
+    "duration_min": 10,
+    "description": "Learn the anatomy of a guitar — headstock, tuning pegs, nut, frets, body, bridge, and strings.",
+    "topics": ["Guitar anatomy", "String names (EADGBE)", "How to hold the guitar", "Pick vs fingerstyle"],
+    "next_lesson": "2"
+  },
+  {
+    "id": "2",
+    "title": "Reading Guitar Tabs",
+    "level": "beginner",
+    "duration_min": 15,
+    "description": "Understand how to read guitar tablature — the 6 lines represent the 6 strings, numbers indicate frets.",
+    "topics": ["Tab notation basics", "String order in tabs", "Reading simple melodies", "Single note vs chord tabs"],
+    "next_lesson": "3"
+  },
+  {
+    "id": "3",
+    "title": "Your First 3 Chords: Em, Am, E",
+    "level": "beginner",
+    "duration_min": 20,
+    "description": "Master three essential chords that unlock hundreds of songs. These are the easiest chords to start with.",
+    "topics": ["Em chord shape", "Am chord shape", "E chord shape", "Switching between chords"],
+    "next_lesson": "4"
+  },
+  {
+    "id": "4",
+    "title": "The G-C-D Trio",
+    "level": "beginner",
+    "duration_min": 25,
+    "description": "G, C, and D are the most common chords in popular music. Master these and you can play thousands of songs.",
+    "topics": ["G chord shape", "C chord shape", "D chord shape", "G-C-D progression"],
+    "next_lesson": "5"
+  },
+  {
+    "id": "5",
+    "title": "Basic Strumming Patterns",
+    "level": "beginner",
+    "duration_min": 20,
+    "description": "Learn the D-DU-UDU strumming pattern and how to keep rhythm. This pattern works for most Hindi songs.",
+    "topics": ["Downstroke basics", "Down-Up strumming", "D DU UDU pattern", "Keeping time with a metronome"],
+    "next_lesson": "6"
+  },
+  {
+    "id": "6",
+    "title": "Introduction to Barre Chords",
+    "level": "intermediate",
+    "duration_min": 30,
+    "description": "Barre chords are the gateway to playing in any key. F major is the classic challenge — let's tackle it.",
+    "topics": ["Why barre chords matter", "F major barre chord", "Bm barre chord", "Finger strength exercises"],
+    "next_lesson": "7"
+  },
+  {
+    "id": "7",
+    "title": "Fingerpicking Basics",
+    "level": "intermediate",
+    "duration_min": 25,
+    "description": "Fingerpicking adds emotion and texture. Learn the p-i-m-a finger assignments and your first fingerpicking pattern.",
+    "topics": ["Finger assignments (p-i-m-a)", "Basic Travis picking", "Arpeggios", "Applying to slow songs"],
+    "next_lesson": "8"
+  },
+  {
+    "id": "8",
+    "title": "Playing Tum Hi Ho",
+    "level": "beginner",
+    "duration_min": 30,
+    "description": "Put it all together with one of India's most loved songs. Am-F-C-G with capo 4.",
+    "topics": ["Setting up capo", "Am-F-C-G progression", "Strumming with feel", "Singing and playing together"],
+    "next_lesson": null
+  }
+]
