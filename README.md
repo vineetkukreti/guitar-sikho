@@ -58,7 +58,7 @@ music/
 
    ```bash
    cp env_template.txt .env
-   # Edit .env and add your ANTHROPIC_API_KEY
+   # Edit .env and add your ANTHROPIC_API_KEY (the only required variable)
    ```
 
 3. **Start the app** (installs all deps automatically)
@@ -112,4 +112,4 @@ Please keep PRs focused — one feature or fix per PR.
 
 ## License
 
-MIT — free to use, modify, and distribute.
+No license file has been added yet, so all rights are reserved by default. Open an issue if you'd like to reuse the code.
